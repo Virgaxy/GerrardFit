@@ -1,0 +1,6 @@
+{
+  "name": "GerrardFit",
+  "description": "Elite Personal Training & 12-Week Transformation Platform led by ISSA Certified Trainer Dawit Solomon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
